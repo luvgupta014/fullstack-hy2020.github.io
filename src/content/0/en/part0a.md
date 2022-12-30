@@ -323,7 +323,7 @@ You need to be a resident of Finland in order to participate in these interviews
 
 ### Before you start
 
-Using the [Chrome browser](https://www.google.com/chrome/) is recommended for this course, because it provides the best tools for web development. Another alternative is the [Developer Edition of Firefox](https://www.mozilla.org/en-US/firefox/developer/), which provides the same range of features.
+Using the [Chrome browser](https://www.google.com/chrome/) is recommended for this course, because it provides the best tools for web development. Another alternative is the [Developer Edition of Firefox](https://www.zilla.org/en-US/firefox/developer/), which provides the same range of features.
 
 The course exercises are submitted to GitHub, so Git must be installed and you should know how to use it. For instructions, see [Git and GitHub tutorial for beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners).
 
